@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\Admin\AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\ManageMovies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\ManageSessions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\ViewReservations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Customer\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Customer\MovieSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Customer\ReservationConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Customer\SeatSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Customer\MovieCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Customer\Seat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
